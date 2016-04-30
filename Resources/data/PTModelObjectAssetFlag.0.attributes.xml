@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>37187</string>
+                <key>className</key>
+                <string>PTModelObjectAssetFlag</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{153.000,631.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Start Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>End Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>30.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Length</key>
+                <dict>
+                    <key>value</key>
+                    <string>90.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Wave Height</key>
+                <dict>
+                    <key>value</key>
+                    <string>50.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Wave Length</key>
+                <dict>
+                    <key>value</key>
+                    <string>120.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>37216</string>
+                <key>className</key>
+                <string>PTModelObjectAssetFlag</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{153.000,631.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Start Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>End Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>30.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Length</key>
+                <dict>
+                    <key>value</key>
+                    <string>90.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Wave Height</key>
+                <dict>
+                    <key>value</key>
+                    <string>50.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Wave Length</key>
+                <dict>
+                    <key>value</key>
+                    <string>120.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
