@@ -1053,6 +1053,11 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0620;
+				TargetAttributes = {
+					1D6058900D05DD3D006BFB54 = {
+						DevelopmentTeam = 4H2CPZLR9S;
+					};
+				};
 			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "PTPlayer" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -1158,7 +1163,7 @@
 					"\"$(SRCROOT)/libs/box2d\"",
 				);
 				INFOPLIST_FILE = "PTPlayer-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/libs/cocos2dx",
@@ -1167,7 +1172,14 @@
 					"$(PROJECT_DIR)/libs/ads/**",
 					"$(PROJECT_DIR)/libs/ads/PTAdHeyzap",
 				);
-				OTHER_LDFLAGS = ("-ObjC", "-framework GoogleMobileAds", "-framework AdSupport" );
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					GoogleMobileAds,
+					"-framework",
+					AdSupport,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.ExitTheVoid;
 				PRODUCT_NAME = PZPlayer;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1213,7 +1225,7 @@
 					"\"$(SRCROOT)/libs/box2d\"",
 				);
 				INFOPLIST_FILE = "PTPlayer-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/libs/cocos2dx",
@@ -1222,7 +1234,14 @@
 					"$(PROJECT_DIR)/libs/ads/**",
 					"$(PROJECT_DIR)/libs/ads/PTAdHeyzap",
 				);
-				OTHER_LDFLAGS = ("-ObjC", "-framework GoogleMobileAds", "-framework AdSupport" );
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					GoogleMobileAds,
+					"-framework",
+					AdSupport,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.ExitTheVoid;
 				PRODUCT_NAME = PZPlayer;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
