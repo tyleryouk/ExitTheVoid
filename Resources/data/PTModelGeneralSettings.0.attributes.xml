@@ -183,9 +183,9 @@
                         <key>heyZap</key>
                         <string></string>
                         <key>adMobBanner</key>
-                        <string>ID_HERE</string>
+                        <string>ca-app-pub-3608073587678030/5157520706</string>
                         <key>adMobInterstitial</key>
-                        <string>ID_HERE</string>
+                        <string>ca-app-pub-3608073587678030/4086243502</string>
                         <key>bundleID</key>
                         <string>com.hell.escaping</string>
                         <key>nameOnDevice</key>
