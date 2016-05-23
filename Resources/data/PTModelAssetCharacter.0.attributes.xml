@@ -132,7 +132,7 @@
                 <key>Price</key>
                 <dict>
                     <key>value</key>
-                    <string>100.000000</string>
+                    <string>100.0</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -202,7 +202,7 @@
                 <key>Price</key>
                 <dict>
                     <key>value</key>
-                    <string>100.000000</string>
+                    <string>100.0</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
