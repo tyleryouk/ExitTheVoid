@@ -592,7 +592,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{97.753,197.880}</string>
+                    <string>{160,197.880}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -624,7 +624,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{98.198,197.880}</string>
+                    <string>{160,197.880}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -656,7 +656,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{548.000,198.000}</string>
+                    <string>{486.000,198.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
