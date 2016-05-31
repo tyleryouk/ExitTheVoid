@@ -791,7 +791,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.700,0.700}</string>
+                    <string>{0.000,0.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>

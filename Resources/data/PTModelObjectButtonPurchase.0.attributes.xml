@@ -18,14 +18,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{246.000,199.845}</string>
+                    <string>{0.0,0.0}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.700,0.700}</string>
+                    <string>{0.000,0.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -51,7 +51,7 @@
                     <key>visible</key>
                     <string>0</string>
                     <key>value</key>
-                    <string>0.990000</string>
+                    <string>0.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
